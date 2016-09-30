@@ -1,6 +1,6 @@
 ## Description
 
-This ultra-lightweight (<4kb initial load, <8kb with weather data and gzip enabled) weather web-app lets you check the current weather conditions anywhere in the world. It works with and without javascript and does not have any dependencies other than the weather api.
+This ultra-lightweight (~3kb initial load, ~7kb with weather data and gzip enabled) weather web-app lets you check the current weather conditions anywhere in the world. It works with and without javascript and does not have any dependencies other than the weather api.
 
 ## Demo
 
