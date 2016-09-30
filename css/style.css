@@ -2,20 +2,21 @@
 	box-sizing: border-box;
 }
 html, body{
-	padding: 0;
 	margin: 0;
 	font: 100 1em arial, sans-serif;
 	color: white;
 	text-align: center;
 	height: 100%;
 }
-body{
+html{
 	background: #078fff;
 	background: radial-gradient(ellipse at center,  #87e0fd 0%,#53cbf1 40%,#078fff 100%);
 }
+body{
+	background-color: rgba(0, 0, 0, 0.25);
+}
 .container{
     min-width: 280px;
-	background-color: rgba(0, 0, 0, 0.25);
 }
 .content-wrap{
 	padding: 4rem 0 0;
