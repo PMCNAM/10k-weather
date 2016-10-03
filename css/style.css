@@ -6,14 +6,11 @@ html, body{
 	font: 100 1em arial, sans-serif;
 	color: white;
 	text-align: center;
-	height: 100%;
+	min-height: 100%;
 }
 html{
-	background: #078fff;
-	background: radial-gradient(ellipse at center,  #87e0fd 0%,#53cbf1 40%,#078fff 100%);
-}
-body{
-	background-color: rgba(0, 0, 0, 0.25);
+	background: #045598;
+	background: radial-gradient(ellipse at center,#5ea7bf 0,#3ca0bf 40%,#045598 100%);
 }
 .container{
     min-width: 280px;
